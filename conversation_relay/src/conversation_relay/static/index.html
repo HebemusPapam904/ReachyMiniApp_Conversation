@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Conversation Relay – Backend</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="ambient"></div>
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>Loading…</p>
+    </div>
+    <div class="container">
+      <header class="hero">
+        <div class="pill">Headless control</div>
+        <h1>Conversation Relay</h1>
+        <p class="subtitle">
+          Uses the Hugging Face realtime backend. No API key required by default.
+        </p>
+      </header>
+
+      <div id="panel" class="panel hidden">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Backend</p>
+            <h2 id="mode-title">Hugging Face</h2>
+          </div>
+          <span id="chip" class="chip">Checking…</span>
+        </div>
+        <p id="detail" class="muted"></p>
+      </div>
+
+      <div id="voice-panel" class="panel hidden">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Speech</p>
+            <h2>Voice</h2>
+          </div>
+        </div>
+        <label for="voice-select">Current voice</label>
+        <select id="voice-select"></select>
+        <p id="voice-status" class="status"></p>
+      </div>
+
+      <div class="panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Configuration</p>
+            <h2>Switch backend mode</h2>
+          </div>
+        </div>
+        <p class="muted">
+          Edit the app's <code>.env</code> file and restart the app to change modes.
+        </p>
+        <label>Free hosted backend (default, no key needed)</label>
+        <pre><code>HF_REALTIME_CONNECTION_MODE=deployed</code></pre>
+        <label>Your own realtime backend (already running on the robot or your laptop)</label>
+        <pre><code>HF_REALTIME_CONNECTION_MODE=local
+HF_REALTIME_WS_URL=ws://127.0.0.1:8765/v1/realtime</code></pre>
+        <p class="muted">
+          Optional: set <code>HF_TOKEN</code> in <code>.env</code> (a free token from
+          huggingface.co/settings/tokens) for more reliable access to the hosted backend.
+        </p>
+      </div>
+    </div>
+
+    <script type="module" src="/static/main.js"></script>
+  </body>
+</html>
