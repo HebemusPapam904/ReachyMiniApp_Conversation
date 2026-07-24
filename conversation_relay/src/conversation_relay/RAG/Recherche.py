@@ -14,7 +14,7 @@ collection = chroma_client.get_collection(
 )
 
 # 3. Poser une question piège (reformulée sans les mots exacts du fichier)
-question = "C'est quoi la réalité mixte ?"
+question = "Parle moi de Julien Perrot"
 
 print(f"🔍 Question posée : '{question}'\n")
 
