@@ -27,9 +27,9 @@ class ChercherInfoEntreprise(Tool):
 
     name = "chercher_info_entreprise"
     description = (
-        "Recherche des informations officielles sur l'entreprise "
-        "(activites, chiffres, clients, innovations, presentation, produits, secteurs , sharing, technologies, immersion). "
-        "À utiliser dès que l'utilisateur pose une question spécifique sur l'entreprise."
+        "Search for official information about the company "
+        "(activities, figures, clients, innovations, presentation, products, sectors, sharing, technologies, immersion). "
+        "Use this whenever the user asks a specific question about the company."
     )
     parameters_schema = {
         "type": "object",
