@@ -21,7 +21,7 @@ from conversation_relay.config import config
 from conversation_relay.mcp_client import McpToolTimeoutError, McpToolInvocationError
 from conversation_relay.tool_spaces import build_remote_client, read_installed_tool_spaces
 from conversation_relay.tools.tool_constants import SystemTool
-
+from RAG.rag_tool import ChercherInfoEntreprise
 
 if TYPE_CHECKING:
     from conversation_relay.mcp_client import RemoteMcpToolClient
@@ -42,6 +42,7 @@ class ToolDependencies:
     reachy_mini: ReachyMini
     movement_manager: Any  # MovementManager from moves.py
     # Optional deps
+
     instance_path: str | Path | None = None
     camera_enabled: bool = False
     motion_duration_s: float = 1.0

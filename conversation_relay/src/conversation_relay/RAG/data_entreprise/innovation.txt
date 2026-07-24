@@ -1,0 +1,16 @@
+---
+title: Recherche et innovation
+category: Innovation
+source: https://www.immersion.fr/
+date: 2026-07-24
+---
+
+# Recherche et innovation
+
+L'innovation constitue un élément central de la stratégie d'Immersion.
+
+L'entreprise consacre environ 10 % de son chiffre d'affaires à la recherche et au développement. Elle participe régulièrement à des projets collaboratifs français et européens portant sur les technologies immersives.
+
+Immersion possède plus d'une vingtaine de brevets et a publié plus d'une cinquantaine de publications scientifiques.
+
+Les travaux de recherche portent notamment sur la collaboration immersive, les interfaces homme-machine, la réalité mixte, les jumeaux numériques et les nouveaux usages de la XR.

@@ -1,0 +1,21 @@
+# Concepts fondamentaux de la réalité étendue, virtuelle, augmentée et mixte
+
+La réalité étendue, désignée par le sigle XR pour Extended Reality, est une catégorie générale qui regroupe l'ensemble des technologies d'immersion visuelle et d'interaction numérique, incluant la réalité virtuelle, la réalité augmentée et la réalité mixte.
+
+Les technologies XR transforment la perception de l'utilisateur en superposant ou en substituant des données numériques informatiques à l'environnement physique.
+
+La réalité virtuelle, ou VR pour Virtual Reality, immerge complètement l'utilisateur dans un monde informatique modélisé en trois dimensions.
+
+En réalité virtuelle, l'utilisateur est isolé visuellement du monde réel au moyen d'un casque d'immersion ou d'une salle de projection stéréoscopique de type CAVE.
+
+La réalité virtuelle repose sur le suivi des mouvements à six degrés de liberté, désigné par 6DoF pour Six Degrees of Freedom, permettant d'adapter la perspective visuelle en temps réel aux déplacements du corps et de la tête pour créer une sensation de présence physique.
+
+La réalité augmentée, ou AR pour Augmented Reality, incruste des données informatiques numériques comme des textes, des images, des objets 3D ou des guides de montage directement sur la vue du monde réel.
+
+La réalité augmentée conserve la vision directe de l'environnement physique et s'affiche au travers de lunettes transparentes dites Optical See-Through ou sur l'écran d'une tablette tactile.
+
+La réalité augmentée est principalement employée pour assister les techniciens lors des opérations de maintenance, d'assemblage et de contrôle qualité sur chaîne de production.
+
+La réalité mixte, ou MR pour Mixed Reality, combine les environnements réel et virtuel en permettant aux objets numériques d'interagir directement avec les éléments physiques.
+
+En réalité mixte, les objets virtuels sont ancrés dans le décor physique et peuvent être masqués par des obstacles réels grâce à des casques équipés de caméras à haute définition fonctionnant selon le principe de la vidéo traversante appelée Video See-Through.

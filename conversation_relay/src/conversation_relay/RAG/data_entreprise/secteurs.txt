@@ -1,0 +1,18 @@
+---
+title: Secteurs d'activité
+category: Marchés
+source: https://www.immersion.fr/
+date: 2026-07-24
+---
+
+# Secteurs d'activité
+
+Les solutions développées par Immersion sont utilisées dans de nombreux secteurs industriels.
+
+L'aéronautique utilise les technologies immersives pour la conception collaborative, les revues de projets et la formation.
+
+L'industrie automobile s'appuie sur ces solutions pour accélérer le développement de nouveaux véhicules et améliorer les processus industriels.
+
+Les acteurs de l'énergie, de la défense, de la santé, de la recherche et de l'enseignement supérieur utilisent également les technologies d'Immersion pour la simulation, la maintenance, la collaboration et la formation.
+
+Les outils développés permettent d'améliorer la productivité tout en réduisant les coûts liés aux déplacements, aux prototypes physiques et aux formations traditionnelles.

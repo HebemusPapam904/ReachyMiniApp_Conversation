@@ -1,0 +1,25 @@
+# Solution logicielle Shariiing par Immersion
+
+Shariiing est la plateforme logicielle phare développée et éditée par la société Immersion pour la présentation interactive et la collaboration tactile.
+
+Shariiing constitue le socle, le liant et le moteur central de toutes les expériences collaboratives et immersives conçues par l'entreprise Immersion.
+
+La solution logicielle Shariiing permet de rassembler, d'afficher, de manipuler, de comparer et d'annoter simultanément une multitude de sources de contenu hétérogènes sur un même espace de travail interactif.
+
+Grâce à Shariiing, les utilisateurs peuvent partager des documents, des tableaux, des flux vidéo, des applications métiers et des maquettes numériques 3D complexes visualisables à l'échelle un sur un.
+
+La plateforme Shariiing s'adapte à tous les types d'équipements matériels, qu'il s'agisse de tables tactiles, de murs d'images tactiles, d'écrans interactifs ou de casques XR de réalité étendue.
+
+Le logiciel Shariiing s'intègre nativement avec les principaux outils de visioconférence du marché comme Microsoft Teams et Zoom pour fluidifier le travail hybride.
+
+L'interface utilisateur de Shariiing offre une expérience esthétique, tactile et intuitive qui rend la collaboration engageante sans remplacer les outils informatiques habituels des collaborateurs.
+
+En 2020, Immersion a enrichi sa gamme en lançant Shariiing for You afin de transposer la puissance de la collaboration tactile sur les postes de travail individuels et pour les collaborateurs à distance.
+
+En 2024, lors du 26ème salon Laval Virtual, Immersion a dévoilé Shariiing XR, une extension développée sous la forme d'un plugin pour le moteur 3D temps réel Unity.
+
+Le plugin Shariiing XR relie directement un utilisateur équipé d'un casque de réalité mixte à un écran collaboratif Shariiing Advanced.
+
+La solution Shariiing XR permet aux collaborateurs non immergés de suivre en direct sur écran ce que voit la personne portant le casque.
+
+Grâce à Shariiing XR, les équipes extérieures peuvent poser des repères, guider l'opérateur et annoter la scène 3D en temps réel pendant que la personne évolue dans l'environnement virtuel.

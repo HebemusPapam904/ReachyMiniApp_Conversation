@@ -1,0 +1,27 @@
+# Produits, matériels et solutions logicielles d'Immersion
+
+L'entreprise Immersion conçoit et édite des solutions logicielles propriétaires et des produits 3i destinés à réorchestrer la façon de travailler en alliant esthétique, innovation et interactivité.
+
+La plateforme logicielle Shariiing constitue le socle majeur des expériences collaboratives d'Immersion.
+
+Le logiciel Shariiing permet de rassembler, d'afficher et de manipuler simultanément plusieurs sources de contenu sur un même espace de travail interactif.
+
+Les utilisateurs de Shariiing peuvent partager des documents, des flux vidéo, des applications métiers et des maquettes 3D à l'échelle un sur un, que ce soit sur une table tactile, un mur d'images ou un casque XR.
+
+Shariiing est compatible avec les principaux outils de visioconférence comme Microsoft Teams et Zoom.
+
+La plateforme Shariiing se décline sous plusieurs formes, notamment Shariiing for You lancé en 2020 et Shariiing XR dévoilé en 2024 lors du salon Laval Virtual.
+
+Shariiing XR est un plugin pour le moteur temps réel Unity qui relie un utilisateur équipé d'un casque de réalité mixte à un écran interactif Shariiing Advanced.
+
+Ce dispositif permet aux collaborateurs non immergés de suivre, guider, poser des repères et annoter la scène 3D en temps réel.
+
+En matière de produits matériels et de mobilier interactif, Immersion commercialise Meetiiim, une table tactile interactive conçue pour donner corps et dynamique au travail collectif.
+
+Immersion propose également Studiiio, une solution clé en main dédiée au travail hybride, aux réunions hybrides et à la visioconférence augmentée.
+
+La solution Studiiio combine des équipements audiovisuels de qualité studio, des caméras automatiques, un éclairage adapté et le logiciel Shariiing pour valoriser l'orateur et garantir une équité de présence entre collaborateurs sur site et à distance.
+
+Immersion gère également Corner Shop, une boutique en ligne spécialisée dans la distribution de casques XR, de systèmes de capture de mouvement et d'accessoires immersifs.
+
+Immersion développe aussi des applications sur mesure en réalité virtuelle et réalité mixte adaptées aux besoins spécifiques de ses clients industriels.
