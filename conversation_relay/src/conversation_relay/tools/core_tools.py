@@ -21,7 +21,6 @@ from conversation_relay.config import config
 from conversation_relay.mcp_client import McpToolTimeoutError, McpToolInvocationError
 from conversation_relay.tool_spaces import build_remote_client, read_installed_tool_spaces
 from conversation_relay.tools.tool_constants import SystemTool
-from conversation_relay.RAG.rag_tool import ChercherInfoEntreprise
 
 if TYPE_CHECKING:
     from conversation_relay.mcp_client import RemoteMcpToolClient
