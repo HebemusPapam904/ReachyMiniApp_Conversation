@@ -1,0 +1,23 @@
+# Les employés d'Immersion
+
+Immersion emploie environ 45 collaborateurs hautement spécialisés. L'entreprise s'appuie sur des équipes pluridisciplinaires capables d'intervenir à la fois sur la stratégie, la conception, l'intégration et le suivi technique des projets immersifs.
+
+Les principaux profils présents chez Immersion sont les ingénieurs en informatique, les docteurs en sciences cognitives, les designers UX, les ergonomes, les experts en optique, les spécialistes de l'électronique et les professionnels du développement logiciel.
+
+Cette diversité de métiers permet de couvrir l'ensemble du cycle de vie d'un projet, depuis l'étude des besoins jusqu'à la mise en service des installations. Les équipes travaillent notamment sur l'interface humain-machine, la réalité mixte, la collaboration immersive, l'ergonomie visuelle et les jumeaux numériques.
+
+Chez Immersion, les employés partagent une culture centrée sur l'humain, l'innovation et l'interdisciplinarité. Leur objectif est de concevoir des solutions intuitives qui améliorent la collaboration, la formation et la prise de décision dans des environnements de travail immersifs.
+
+# Profils d'employés d'exemple
+
+Les profils ci-dessous sont des exemples de collaborateurs possibles au sein d'Immersion.
+
+Camille Morel, cheffe de projet immersion, coordonne les déploiements clients et veille à la bonne articulation entre les besoins métiers, les équipes techniques et les contraintes de planning.
+
+Thomas Bernard, ingénieur logiciel XR, développe les interactions temps réel autour de Shariiing et intervient sur l'intégration avec Unity, les outils de visioconférence et les casques de réalité mixte.
+
+Sarah El Amrani, UX designer, conçoit des interfaces tactiles et collaboratives simples à utiliser, avec un fort accent sur l'ergonomie, la lisibilité et l'expérience utilisateur.
+
+Julien Perrot, expert en optique et affichage immersif, travaille sur la qualité visuelle des dispositifs, les murs d'images, la calibration colorimétrique et le confort d'utilisation.
+
+Nadia Lopes, docteure en sciences cognitives, étudie les usages, l'attention et la collaboration pour aider les équipes à concevoir des environnements immersifs adaptés aux comportements humains.
